@@ -1,0 +1,26 @@
+.container1{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.sec1O{
+    background-image: url('./img/img1.png');
+    height: 100vh;
+    background-repeat: no-repeat;
+    box-sizing: cover;
+    background-position: center;
+}
+
+.editable-cell {
+    position: relative;
+  }
+  
+  .editable-cell-value-wrap {
+    padding: 5px 12px;
+    cursor: pointer;
+  }
+  
+  .editable-row:hover .editable-cell-value-wrap {
+    padding: 4px 11px;
+    border: 1px solid #d9d9d9;
+    border-radius: 2px;
+  }

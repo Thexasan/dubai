@@ -1,0 +1,11 @@
+.container1{
+    max-width: 1600px;
+    margin: 0 auto;
+}
+.sec1{
+    background-image: url('./img/map.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
